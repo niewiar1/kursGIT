@@ -1,1 +1,1 @@
-Dodanie funkcjonalnosci C.
+Dodanie funkcjonalnosci C zmieniony do rebase.

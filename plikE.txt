@@ -1,1 +1,1 @@
-Dodanie pliku E.
+Dodanie pliku E zmieniony do rebase.

@@ -1,1 +1,1 @@
-To jest zawartoscc pliku A.
+To jest zawartoscc pliku A zmieniuny do rebase.
