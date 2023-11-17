@@ -1,1 +1,1 @@
-Ddodanie funkcjonalnosci D.
+Ddodanie funkcjonalnosci D zmiana na potrzeby rebase.
